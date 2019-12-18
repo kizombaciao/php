@@ -1,0 +1,12 @@
+https://www.geeksforgeeks.org/php-include_once-require_once/
+
+require_once() function can be used 
+to include a PHP file in another one, 
+when you may need to include the called file more than once. 
+If it is found that the file has already been included, 
+calling script is going to ignore further inclusions.
+
+If a.php is a php script calling b.php 
+with require_once() function, 
+and does not find b.php, 
+a.php stops execution causing a fatal error.

@@ -1,0 +1,33 @@
+
+
+body {
+    margin: 0px;
+    font-family: 'Roboto', sans-serif;
+    color: #333333;
+}
+
+body.small {
+    background-color: rgb(255, 171, 74);
+}
+
+* {
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.row
+{
+    width: 100%;
+    overflow: hidden;
+    *zoom: 1;
+}
+
+
+
+
+/*
+https://www.w3schools.com/css/css_howto.asp
+*/

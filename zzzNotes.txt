@@ -1,0 +1,24 @@
+CHECKLIST:
+// chmod 755 all programs!!!
+// test each code with provided examples
+// no blank lines
+
+// check your git remote show origin !!!
+// check by cloning remote also
+// check right directories are cloned
+
+
+
+
+//=======================================
+QUESTIONS:
+??? printing out comments is unavoidable when you run php scripts
+
+??? when do we nee this: #!/usr/bin/php
+
+//=======================================
+NOTES:
+// $_GET is an associative array!!!
+
+
+

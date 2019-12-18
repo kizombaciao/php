@@ -1,0 +1,24 @@
+
+
+data management
+
+user management
+
+a basket
+
+categories and associated products
+
+a landing page
+
+administrative section
+
+//////////////////////////////////////////////////////
+HTML COMMENTS:
+
+<!-- 
+-->
+
+//////////////////////////////////////////////////////
+
+
+
